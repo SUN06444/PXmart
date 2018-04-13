@@ -1,0 +1,21 @@
+.SearchIcon
+{
+    color:#fff;
+   
+}
+.SearchButton
+{
+    border-radius:20px;
+}
+.SearchButton:hover{
+    background-color:#999;
+}
+
+.SearchBar{
+border-radius:20px;
+}
+.row {
+	width:1000px;
+	margin-bottom:10px;
+	
+		}
